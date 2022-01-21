@@ -108,21 +108,32 @@ I am a Server Administrator with an experience of over 5 years. I have hands on 
 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### EXPERIENCE
 
-- Bulleted
-- List
+### Trius Infotech, IT Park Chandigarh (as a IT Executive)
 
-1. Numbered
-2. List
+Duration: 10 March 2016 - 31 July 2018
 
-**Bold** and _Italic_ and `Code` text
+Trius Infotech is an IT company where they Design and Develop
+CRMS, Websites, Applications, Plugins, Mobile Apps, asp net and
+Java. I worked in this organisation as an IT executive.
+Here i learn Networking, Installation and Configurations of
+softwares and servers.
 
-[Link](url) and ![Image](src)
+
+### Netmente, Phase 8B Mohali (as a Server Administrator)
+28 August 2018 - Present
+Netmente is an Internet technology solutions company that caters
+to all kinds of IT services like Interactive Web Design, Web
+Development, E-Commerce solutions, Mobile Apps, SEO, SMM,
+Digital Marketing, Web Hosting, Website Maintenance and other
+online solutions. We are helping businesses worldwide, to
+upgrade, become more productive & increase their clientele..' I
+worked in this organisation as a System Administrator.
+Here i worked on AWS, Google Cloud, Bash Shell, GIT, Web Servers,
+Cpanels & WHM, Linux Servers, DNS and Docker
+
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
