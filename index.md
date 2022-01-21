@@ -1,3 +1,27 @@
+ </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="https://aniljahangir8.github.io/">Anil Jahangir</a></h1>
+
+        
+          <img src="/profile-pic.jpg?raw=true" alt="Logo" />
+        
+
+        <p>Server Administrator
+ <br><br>
+ <a href="mailto:aniljahangir8@gmail.com">aniljahangir8@gmail.com </a>
+ <br>
+ <a href="https://www.linkedin.com/in/aniljahangir8/">LinkedIn Profile</a>
+ <br>
+ <a href="https://www.gihub.com/aniljahangir8/">Gihub</a> 
+</p>
+
+        <p class="view"><a href="https://github.com/aniljahangir8">View My GitHub Profile</a></p>
+        
+      </header>
+      <section>
+        
 ## Portfolio
 
 I'm a Server Administrator with an experience of over 5 years. I have hands on experience working with AWS, Google Cloud, Azure, Linux Server, Windows Servers, Docker, Bash  and GIT. I have extensively worked on Server maintenance and Networking for 4 years.
