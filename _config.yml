@@ -1,1 +1,11 @@
+title: Anil Jahangir # your name (or website title) here
+logo: "/profile-pic.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Server Administrator
+  <br><br>
+  <a href="mailto:aniljahangir8@gmail.com">aniljahangir8@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/anil-jahangir-06344a139/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/aniljahangir8/">Github</a> 
 theme: jekyll-theme-minimal
