@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a Server Administrator with an experience of over 5 years. I have hands on experience working with AWS, Google Cloud, Azure, Linux Server, Windows Servers, and GIT. I have extensively worked on Server maintenance and Networking for 4 years.
+I'm a Server Administrator with an experience of over 5 years. I have hands on experience working with AWS, Google Cloud, Azure, Linux Server, Windows Servers, Docker, Bash  and GIT. I have extensively worked on Server maintenance and Networking for 4 years.
 
 
 ### SKills
@@ -106,12 +106,13 @@ I am a Server Administrator with an experience of over 5 years. I have hands on 
   </a>
 </p>
 
+#
 
 ### EXPERIENCE
 
 ### Trius Infotech, IT Park Chandigarh (as a IT Executive)
 
-Duration: 10 March 2016 - 31 July 2018
+### Duration: 10 March 2016 - 31 July 2018
 
 Trius Infotech is an IT company where they Design and Develop
 CRMS, Websites, Applications, Plugins, Mobile Apps, asp net and
@@ -121,7 +122,9 @@ softwares and servers.
 
 
 ### Netmente, Phase 8B Mohali (as a Server Administrator)
-28 August 2018 - Present
+
+### Duration: 28 August 2018 - Present
+
 Netmente is an Internet technology solutions company that caters
 to all kinds of IT services like Interactive Web Design, Web
 Development, E-Commerce solutions, Mobile Apps, SEO, SMM,
@@ -130,15 +133,22 @@ online solutions. We are helping businesses worldwide, to
 upgrade, become more productive & increase their clientele..' I
 worked in this organisation as a System Administrator.
 Here i worked on AWS, Google Cloud, Bash Shell, GIT, Web Servers,
-Cpanels & WHM, Linux Servers, DNS and Docker
+Cpanels & WHM, Linux Servers, DNS and Docker.
 
+#
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# Education
 
-### Jekyll Themes
+kurukshetra university
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aniljahangir8/aniljahangir.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+BCA (2016-2019)
 
-### Support or Contact
+GPA 7.2
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#
+
+### INTERESTS
+
+Apart from being a Server Administrator, I also learn to automate my work using many technologies such as plasticscm, docker, Selenium, and others.
+
+I adore being outside and go for a run every day, play cricket and badminton on weekends, and cycle on occasionally. I enjoy visiting new places and learning about different cultures. When I'm at home, I like to play video games, create code, and sometimes paint.
