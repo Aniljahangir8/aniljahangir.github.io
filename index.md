@@ -107,8 +107,6 @@ I am a Server Administrator with an experience of over 5 years. I have hands on 
 </p>
 
 
-```markdown
-
 ### EXPERIENCE
 
 ### Trius Infotech, IT Park Chandigarh (as a IT Executive)
@@ -134,7 +132,6 @@ worked in this organisation as a System Administrator.
 Here i worked on AWS, Google Cloud, Bash Shell, GIT, Web Servers,
 Cpanels & WHM, Linux Servers, DNS and Docker
 
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
