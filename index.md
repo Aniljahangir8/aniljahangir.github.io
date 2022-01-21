@@ -137,11 +137,11 @@ Cpanels & WHM, Linux Servers, DNS and Docker.
 
 <hr />
 
-## Education
+## EDUCATION
 
-Kurukshetra University
+### Kurukshetra University
 
-BCA (2016-2019)
+### BCA (2016-2019)
 
 GPA 7.2
 
