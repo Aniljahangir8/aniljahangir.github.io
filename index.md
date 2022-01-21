@@ -1,4 +1,4 @@
- </head>
+ <head>
   <body>
     <div class="wrapper">
       <header>
@@ -14,13 +14,13 @@
  <br>
  <a href="https://www.linkedin.com/in/aniljahangir8/">LinkedIn Profile</a>
  <br>
- <a href="https://www.gihub.com/aniljahangir8/">Gihub</a> 
+ <a href="https://www.gihub.com/aniljahangir8/">Github</a> 
 </p>
 
         <p class="view"><a href="https://github.com/aniljahangir8">View My GitHub Profile</a></p>
-        
-      </header>
-      <section>
+        </body>
+      <header>
+      </head>
         
 ## Portfolio
 
