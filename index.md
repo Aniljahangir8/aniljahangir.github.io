@@ -108,7 +108,7 @@ I'm a Server Administrator with an experience of over 5 years. I have hands on e
 
 <hr />
 
-### EXPERIENCE
+## EXPERIENCE
 
 ### Trius Infotech, IT Park Chandigarh (as a IT Executive)
 
@@ -137,9 +137,9 @@ Cpanels & WHM, Linux Servers, DNS and Docker.
 
 <hr />
 
-# Education
+## Education
 
-kurukshetra university
+Kurukshetra University
 
 BCA (2016-2019)
 
@@ -147,7 +147,7 @@ GPA 7.2
 
 <hr />
 
-### INTERESTS
+## INTERESTS
 
 Apart from being a Server Administrator, I also learn to automate my work using many technologies such as plasticscm, docker, Selenium, and others.
 
