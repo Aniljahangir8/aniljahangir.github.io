@@ -106,7 +106,7 @@ I'm a Server Administrator with an experience of over 5 years. I have hands on e
   </a>
 </p>
 
-#
+<hr />
 
 ### EXPERIENCE
 
@@ -135,7 +135,7 @@ worked in this organisation as a System Administrator.
 Here i worked on AWS, Google Cloud, Bash Shell, GIT, Web Servers,
 Cpanels & WHM, Linux Servers, DNS and Docker.
 
-#
+<hr />
 
 # Education
 
@@ -145,7 +145,7 @@ BCA (2016-2019)
 
 GPA 7.2
 
-#
+<hr />
 
 ### INTERESTS
 
