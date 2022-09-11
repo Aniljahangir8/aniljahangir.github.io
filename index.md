@@ -95,14 +95,6 @@ I'm a Server Administrator with an experience of over 5 years. I have hands on e
       height="40"
     />
   </a>
-  <a href="https://ahrefs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="images/ahref.png"
-      alt="ahref"
-      width="40"
-      height="40"
-    />
-  </a>
   &nbsp;
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img
