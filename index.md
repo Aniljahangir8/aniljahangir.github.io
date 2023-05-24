@@ -1,6 +1,6 @@
 ## Portfolio
 
-I'm a Server Administrator with an experience of over 5 years. I have hands on experience working with AWS, Google Cloud, Azure, Linux Server, Windows Servers, Docker, Bash  and GIT. I have extensively worked on Server maintenance and Networking for 4 years.
+I'm a DevOps with an experience of 6 years. I have hands on experience working with AWS, Google Cloud, Azure, Linux Server, Windows Servers, Docker, Bash,  GIT And other tools. As a DevOps engineer, my working experience includes collaborating with cross-functional teams to facilitate the development, deployment, and maintenance of software systems. In addition to these technical responsibilities, my working experience also involved collaborating with stakeholders, participating in cross-functional meetings, providing technical guidance, and staying updated with the latest industry trends and tools. 
 
 
 ### SKills
@@ -17,7 +17,7 @@ I'm a Server Administrator with an experience of over 5 years. I have hands on e
   &nbsp;
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img
-      src="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2021/05/95baa365-fedb-4d3c-8b1f-22735e3bb77a.webp"
+      src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
       alt="azure"
       width="40"
       height="40"
@@ -26,7 +26,7 @@ I'm a Server Administrator with an experience of over 5 years. I have hands on e
   &nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"
+      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
       alt="bash"
       width="40"
       height="40"
@@ -44,7 +44,7 @@ I'm a Server Administrator with an experience of over 5 years. I have hands on e
   &nbsp;
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg"
+      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
       alt="gcp"
       width="40"
       height="40"
@@ -53,7 +53,7 @@ I'm a Server Administrator with an experience of over 5 years. I have hands on e
   &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://git-scm.com/images/logo@2x.png"
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
       width="40"
       height="40"
@@ -71,7 +71,7 @@ I'm a Server Administrator with an experience of over 5 years. I have hands on e
   &nbsp;
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img
-      src="https://www.jenkins.io/images/gsoc/opengraph.png"
+      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
       alt="jenkins"
       width="40"
       height="40"
@@ -100,6 +100,51 @@ I'm a Server Administrator with an experience of over 5 years. I have hands on e
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
       alt="nginx"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"
+      alt="Microsoft"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg"
+      alt="Zabbix"
+      width="40"
+      height="40"
+    />
+  </a>
+    &nbsp;
+  <a href="https://www.godaddy.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/godaddy/godaddy-icon.svg"
+      alt="Godaddy"
+      width="40"
+      height="40"
+    />
+  </a>
+    &nbsp;
+  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"
+      alt="Apache2"
+      width="40"
+      height="40"
+    />
+  </a>
+    &nbsp;
+  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg"
+      alt="Cloudflare"
       width="40"
       height="40"
     />
@@ -149,6 +194,6 @@ GPA 7.2
 
 ## INTERESTS
 
-Apart from being a Server Administrator, I also learn to automate my work using many technologies such as plasticscm, docker, Selenium, and others.
+Apart from being a DevOps, I also learn to automate my work using many technologies such as plasticscm, docker, Selenium, and others.
 
 I adore being outside and go for a run every day, play cricket and badminton on weekends, and cycle on occasionally. I enjoy visiting new places and learning about different cultures. When I'm at home, I like to play video games, create code, and sometimes paint.
