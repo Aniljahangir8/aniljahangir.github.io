@@ -17,7 +17,7 @@ I'm a Server Administrator with an experience of over 5 years. I have hands on e
   &nbsp;
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
+      src="https://azure.microsoft.com/en-us/blog/wp-content/uploads/2021/05/95baa365-fedb-4d3c-8b1f-22735e3bb77a.webp"
       alt="azure"
       width="40"
       height="40"
@@ -26,7 +26,7 @@ I'm a Server Administrator with an experience of over 5 years. I have hands on e
   &nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"
       alt="bash"
       width="40"
       height="40"
@@ -44,7 +44,7 @@ I'm a Server Administrator with an experience of over 5 years. I have hands on e
   &nbsp;
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg"
       alt="gcp"
       width="40"
       height="40"
@@ -53,7 +53,7 @@ I'm a Server Administrator with an experience of over 5 years. I have hands on e
   &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      src="https://git-scm.com/images/logo@2x.png"
       alt="git"
       width="40"
       height="40"
@@ -71,7 +71,7 @@ I'm a Server Administrator with an experience of over 5 years. I have hands on e
   &nbsp;
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
+      src="https://www.jenkins.io/images/gsoc/opengraph.png"
       alt="jenkins"
       width="40"
       height="40"
