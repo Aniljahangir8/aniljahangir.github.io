@@ -1,13 +1,13 @@
-title: Anil Jahangir # your name (or website title) here
+title: Anil Jangir # your name (or website title) here
 logo: "/profile-pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- Server Administrator
+ DevOps Engineer
   <br><br>
   <a href="mailto:aniljahangir8@gmail.com">aniljahangir8@gmail.com </a>
   <br>
   <a target="_blank" href="https://www.linkedin.com/in/anil-jahangir-06344a139/">LinkedIn Profile</a>
   <br>
-  <a target="_blank" href="https://www.instagram.com/aniljahangir8/">Instagram</a>
+  <a target="_blank" href="https://www.instagram.com/whoaniljangid/">Instagram</a>
   <br>
   <a target="_blank" href="https://www.github.com/aniljahangir8/">Github</a> 
 theme: jekyll-theme-minimal
