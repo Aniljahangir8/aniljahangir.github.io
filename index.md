@@ -198,6 +198,6 @@ GPA 7.2
 
 ## INTERESTS
 
-Apart from being a DevOps, I also learn to automate my work using many technologies such as plasticscm, docker, Selenium, and others.
+In addition to my primary role as a DevOps engineer, I have acquired extensive experience in automating workflows using various technologies, including Plastic SCM, Docker, and Selenium. This skill set allows me to enhance operational efficiency and streamline processes effectively.
 
-I adore being outside and go for a run every day, play cricket and badminton on weekends, and cycle on occasionally. I enjoy visiting new places and learning about different cultures. When I'm at home, I like to play video games, create code, and sometimes paint.
+Beyond my professional pursuits, I am passionate about maintaining an active lifestyle. I enjoy running daily, playing cricket and badminton on weekends, and occasionally cycling. My enthusiasm for exploration drives me to visit new places and immerse myself in different cultures. At home, I indulge in video gaming, coding, and sometimes painting, which help me unwind and express my creativity.
