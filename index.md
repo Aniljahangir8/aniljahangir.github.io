@@ -186,16 +186,6 @@ Cpanel & WHM, Linux Servers, DNS, and Docker.
 
 <hr />
 
-## EDUCATION
-
-### Kurukshetra University
-
-### BCA (2016-2019)
-
-GPA 7.2
-
-<hr />
-
 ## INTERESTS
 
 In addition to my primary role as a DevOps engineer, I have acquired extensive experience in automating workflows using various technologies, including Plastic SCM, Docker, and Selenium. This skill set allows me to enhance operational efficiency and streamline processes effectively.
