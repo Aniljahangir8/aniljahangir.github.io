@@ -1,6 +1,10 @@
 ## Portfolio
 
-I'm a DevOps with an experience of 6 years. I have hands on experience working with AWS, Google Cloud, Azure, Linux Server, Windows Servers, Docker, Bash,  GIT And other tools. As a DevOps engineer, my working experience includes collaborating with cross-functional teams to facilitate the development, deployment, and maintenance of software systems. In addition to these technical responsibilities, my working experience also involved collaborating with stakeholders, participating in cross-functional meetings, providing technical guidance, and staying updated with the latest industry trends and tools. 
+As a DevOps engineer with 8 years of hands-on experience, I have demonstrated expertise in managing and optimizing both cloud and on-premises infrastructures. My technical proficiency spans AWS, Google Cloud, Azure, Linux Servers, Windows Servers, Docker, Bash, and GIT, among other essential tools.
+
+Throughout my career, I have effectively collaborated with cross-functional teams to streamline the development, deployment, and maintenance of robust software systems. My role frequently involves engaging with stakeholders to understand their needs, participating in cross-functional meetings to ensure alignment, and providing technical guidance to drive project success.
+
+I am committed to staying abreast of the latest industry trends and advancements, continually enhancing my skills to deliver innovative solutions. My experience reflects a blend of technical acumen and strategic collaboration, making me a valuable asset in any dynamic DevOps environment.
 
 
 ### SKills
@@ -155,15 +159,15 @@ I'm a DevOps with an experience of 6 years. I have hands on experience working w
 
 ## EXPERIENCE
 
-### Trius Infotech, IT Park Chandigarh (as a IT Executive)
+### Trius Infotech, IT Park Chandigarh (as an IT Executive)
 
 ### Duration: 10 March 2016 - 31 July 2018
 
 Trius Infotech is an IT company where they Design and Develop
-CRMS, Websites, Applications, Plugins, Mobile Apps, asp net and
-Java. I worked in this organisation as an IT executive.
-Here i learn Networking, Installation and Configurations of
-softwares and servers.
+CRMS, Websites, Applications, Plugins, Mobile Apps, ASP Net and
+Java. I worked in this organization as an IT executive.
+Here I learn Networking, Installation, and Configurations of
+software and servers.
 
 
 ### Netmente, Phase 8B Mohali (as a Server Administrator)
@@ -173,12 +177,12 @@ softwares and servers.
 Netmente is an Internet technology solutions company that caters
 to all kinds of IT services like Interactive Web Design, Web
 Development, E-Commerce solutions, Mobile Apps, SEO, SMM,
-Digital Marketing, Web Hosting, Website Maintenance and other
+Digital Marketing, Web Hosting, Website Maintenance, and other
 online solutions. We are helping businesses worldwide, to
 upgrade, become more productive & increase their clientele..' I
-worked in this organisation as a System Administrator.
-Here i worked on AWS, Google Cloud, Bash Shell, GIT, Web Servers,
-Cpanels & WHM, Linux Servers, DNS and Docker.
+worked in this organization as a System Administrator.
+Here I worked on AWS, Google Cloud, Bash Shell, GIT, Web Servers,
+Cpanel & WHM, Linux Servers, DNS, and Docker.
 
 <hr />
 
