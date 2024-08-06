@@ -153,41 +153,41 @@ I am committed to staying abreast of the latest industry trends and advancements
       height="40"
     />
   </a>
+    &nbsp;
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"
+      alt="Cloudflare"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 <hr />
 
 ## EXPERIENCE
 
-### Trius Infotech, IT Park Chandigarh (as an IT Executive)
+### Yiron Technologies, IT Park Chandigarh (DevOps Engineer)
+
+### Duration: 15 October 2022 - Present
+
+Yiron Technologies, an ISO, CMMI, and MSME-certified IT company, has development centers in Chandigarh and Pune, and sales offices in Dubai, the US, the UK, and Africa. As a DevOps Engineer, I worked on AWS, Google Cloud, Bash Shell, GIT, Web Servers, Cpanel & WHM, Linux Servers, DNS, Jenkins, CI/CD pipelines, and Docker.
+
+### Netmente, Phase 8B Mohali (DevOps Engineer)
+
+### Duration: 28 August 2018 - 14 October 2022
+
+Netmente, a leading Internet technology solutions company, offers services including web design, web development, e-commerce, mobile apps, SEO, SMM, digital marketing, web hosting, and maintenance. As a System Administrator, I worked on AWS, Google Cloud, Bash Shell, GIT, web servers, cPanel & WHM, Linux servers, DNS, and Docker, helping businesses enhance productivity and expand their clientele.
+
+### Trius Infotech, IT Park Chandigarh (System Administrator)
 
 ### Duration: 10 March 2016 - 31 July 2018
 
-Trius Infotech is an IT company where they Design and Develop
-CRMS, Websites, Applications, Plugins, Mobile Apps, ASP Net and
-Java. I worked in this organization as an IT executive.
-Here I learn Networking, Installation, and Configurations of
-software and servers.
-
-
-### Netmente, Phase 8B Mohali (as a Server Administrator)
-
-### Duration: 28 August 2018 - Present
-
-Netmente is an Internet technology solutions company that caters
-to all kinds of IT services like Interactive Web Design, Web
-Development, E-Commerce solutions, Mobile Apps, SEO, SMM,
-Digital Marketing, Web Hosting, Website Maintenance, and other
-online solutions. We are helping businesses worldwide, to
-upgrade, become more productive & increase their clientele..' I
-worked in this organization as a System Administrator.
-Here I worked on AWS, Google Cloud, Bash Shell, GIT, Web Servers,
-Cpanel & WHM, Linux Servers, DNS, and Docker.
+Trius Infotech is an IT company that designs and develops CRMs, websites, applications, plugins, mobile apps, ASP.NET, and Java solutions. As an IT Executive, I gained expertise in networking, software and server installation, and configuration.
 
 <hr />
 
-## INTERESTS
+## Declaration
 
-In addition to my primary role as a DevOps engineer, I have acquired extensive experience in automating workflows using various technologies, including Plastic SCM, Docker, and Selenium. This skill set allows me to enhance operational efficiency and streamline processes effectively.
-
-Beyond my professional pursuits, I am passionate about maintaining an active lifestyle. I enjoy running daily, playing cricket and badminton on weekends, and occasionally cycling. My enthusiasm for exploration drives me to visit new places and immerse myself in different cultures. At home, I indulge in video gaming, coding, and sometimes painting, which help me unwind and express my creativity.
+"As a skilled DevOps engineer with over 8 years of experience, I specialize in implementing automation processes, continuous integration/continuous deployment (CI/CD) pipelines, and infrastructure as code (IaC) solutions. Proficient in a variety of tools such as Docker, Jenkins, and GIT, I am committed to improving software development and operations efficiency to drive business growth and innovation." Feel free to tailor this example to match your specific skills and experiences. The goal is to concisely convey your value proposition and highlight why you're a strong candidate for the position.
